@@ -1,7 +1,7 @@
 {
   "banner_ads": [
     {
-      "id": 1001,
+      "id": 6446,
       "name": "Netflix",
       "description": "Watch unlimited movies and TV shows. Stream anywhere, anytime.",
       "app_logo": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
@@ -14,7 +14,7 @@
       "display_order": 1
     },
     {
-      "id": 1002,
+      "id": 4646,
       "name": "Disney+",
       "description": "Stream Disney, Pixar, Marvel, Star Wars, and National Geographic.",
       "app_logo": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
@@ -25,65 +25,11 @@
       "is_active": true,
       "ends_at": "2027-12-31T23:59:59Z",
       "display_order": 2
-    },
-    {
-      "id": 1003,
-      "name": "Amazon Prime Video",
-      "description": "Watch movies, TV shows, and Amazon Originals.",
-      "app_logo": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
-      "banner_image": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
-      "banner_video": null,
-      "is_video": false,
-      "target_url": "https://primevideo.com",
-      "is_active": true,
-      "ends_at": "2025-12-31T23:59:59Z",
-      "display_order": 3
     }
-  ],
-  "video_banner_ads": [
-    {
-      "id": 2001,
-      "name": "TikTok",
-      "description": "Short videos that entertain and inspire. Join the community!",
-      "app_logo": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
-      "banner_image": "",
-      "banner_video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-      "is_video": true,
-      "target_url": "https://tiktok.com",
-      "is_active": true,
-      "ends_at": "2026-12-31T23:59:59Z",
-      "display_order": 1
-    },
-    {
-      "id": 2002,
-      "name": "Spotify",
-      "description": "Music for every moment. Listen to your favorite artists.",
-      "app_logo": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
-      "banner_image": "",
-      "banner_video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-      "is_video": true,
-      "target_url": "https://spotify.com",
-      "is_active": true,
-      "ends_at": "2027-12-31T23:59:59Z",
-      "display_order": 2
-    },
-    {
-      "id": 2003,
-      "name": "YouTube Premium",
-      "description": "Watch videos without interruptions. Ad-free experience.",
-      "app_logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/YouTube_ Premium_logo.svg",
-      "banner_image": "",
-      "banner_video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4",
-      "is_video": true,
-      "target_url": "https://youtube.com/premium",
-      "is_active": true,
-      "ends_at": "2027-12-31T23:59:59Z",
-      "display_order": 3
-    }
-  ],
+  ], 
   "horizontal_ads": [
     {
-      "id": 3001,
+      "id": 4643,
       "name": "Samsung Galaxy S25",
       "description": "The ultimate AI smartphone. Pre-order now!",
       "app_logo": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
@@ -96,20 +42,7 @@
       "display_order": 1
     },
     {
-      "id": 3002,
-      "name": "Nike Run Club",
-      "description": "Track your runs and stay motivated. Join the community.",
-      "app_logo": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
-      "banner_image": "",
-      "banner_video": null,
-      "is_video": false,
-      "target_url": "https://nike.com/run",
-      "is_active": true,
-      "ends_at": "2027-12-31T23:59:59Z",
-      "display_order": 2
-    },
-    {
-      "id": 3003,
+      "id": 1346,
       "name": "Duolingo",
       "description": "Learn languages for free. Fun and effective lessons.",
       "app_logo": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
@@ -119,7 +52,7 @@
       "target_url": "https://duolingo.com",
       "is_active": true,
       "ends_at": "2026-12-31T23:59:59Z",
-      "display_order": 3
+      "display_order": 2
     }
   ]
 }
