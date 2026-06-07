@@ -1,7 +1,7 @@
 [
   {
     "name": "VidSrc",
-    "image": "https://image.tmdb.org/t/p/w780/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg",
+    "image": "https://vidsrc.to/imgs/apple-touch-icon.png",
     "movieUrlTemplate": "https://vidsrc.to/embed/movie/{{tmdbId}}",
     "tvUrlTemplate": "https://vidsrc.to/embed/tv/{{tmdbId}}/{{seasonNumber}}/{{episodeNumber}}"
   }
